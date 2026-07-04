@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aba",
+    "aaa"
+  ],
+  "key": {
+    "a": "cheesecraft:more_compressed_coal_block_plus",
+    "b": "minecraft:skeleton_skull"
+  },
+  "result": {
+    "id": "minecraft:wither_skeleton_skull",
+    "count": 1
+  }
+}

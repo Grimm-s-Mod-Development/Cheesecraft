@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "a",
+    "a"
+  ],
+  "key": {
+    "a": "cheesecraft:placeholdercursedtechniuqe_67_causespeopletocommitsuicide"
+  },
+  "result": {
+    "id": "minecraft:wooden_sword",
+    "count": 1
+  }
+}

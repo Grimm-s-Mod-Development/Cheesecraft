@@ -1,0 +1,215 @@
+{
+  "mod_elements": [
+    {
+      "name": "Witherskeletonheadrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "witherskeletonheadrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/cheesecraft/recipe/witherskeletonheadrecipe.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "Skeletonheadrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "skeletonheadrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/cheesecraft/recipe/skeletonheadrecipe.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "CheeseCraft",
+      "type": "tab",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cheese_craft",
+      "metadata": {
+        "files": []
+      },
+      "path": "~/cretivtab"
+    },
+    {
+      "name": "CompressedCoalBlock",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "compressed_coal_block",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cheesecraft/models/block/compressed_coal_block.json",
+          "src/main/resources/data/cheesecraft/loot_table/blocks/compressed_coal_block.json",
+          "src/main/resources/assets/cheesecraft/models/item/compressed_coal_block.json",
+          "src/main/java/org/gsdistance/obx/cheesecraft/block/CompressedCoalBlockBlock.java",
+          "src/main/resources/assets/cheesecraft/items/compressed_coal_block.json",
+          "src/main/resources/assets/cheesecraft/blockstates/compressed_coal_block.json"
+        ]
+      },
+      "path": "~/Blocks"
+    },
+    {
+      "name": "MoreCompressedCoalBlock",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "more_compressed_coal_block",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cheesecraft/models/item/more_compressed_coal_block.json",
+          "src/main/resources/assets/cheesecraft/models/block/more_compressed_coal_block.json",
+          "src/main/resources/data/cheesecraft/loot_table/blocks/more_compressed_coal_block.json",
+          "src/main/resources/assets/cheesecraft/blockstates/more_compressed_coal_block.json",
+          "src/main/resources/assets/cheesecraft/items/more_compressed_coal_block.json",
+          "src/main/java/org/gsdistance/obx/cheesecraft/block/MoreCompressedCoalBlockBlock.java"
+        ]
+      },
+      "path": "~/Blocks"
+    },
+    {
+      "name": "MoreCompressedCoalBlockPlus",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "more_compressed_coal_block_plus",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cheesecraft/blockstates/more_compressed_coal_block_plus.json",
+          "src/main/resources/assets/cheesecraft/models/block/more_compressed_coal_block_plus.json",
+          "src/main/resources/data/cheesecraft/loot_table/blocks/more_compressed_coal_block_plus.json",
+          "src/main/resources/assets/cheesecraft/models/item/more_compressed_coal_block_plus.json",
+          "src/main/java/org/gsdistance/obx/cheesecraft/block/MoreCompressedCoalBlockPlusBlock.java",
+          "src/main/resources/assets/cheesecraft/items/more_compressed_coal_block_plus.json"
+        ]
+      },
+      "path": "~/Blocks"
+    },
+    {
+      "name": "Compressedcoalblockrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "compressedcoalblockrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/cheesecraft/recipe/compressedcoalblockrecipe.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "Morecompressedcoalblockrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "morecompressedcoalblockrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/cheesecraft/recipe/morecompressedcoalblockrecipe.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "Morecompressedcoalblockplusrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "morecompressedcoalblockplusrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/cheesecraft/recipe/morecompressedcoalblockplusrecipe.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "PLACEHOLDERCURSEDTECHNIUQE67CAUSESPEOPLETOCOMMITSUICIDE",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "placeholdercursedtechniuqe_67_causespeopletocommitsuicide",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cheesecraft/models/item/placeholdercursedtechniuqe_67_causespeopletocommitsuicide.json",
+          "src/main/resources/assets/cheesecraft/items/placeholdercursedtechniuqe_67_causespeopletocommitsuicide.json",
+          "src/main/java/org/gsdistance/obx/cheesecraft/item/PLACEHOLDERCURSEDTECHNIUQE67CAUSESPEOPLETOCOMMITSUICIDEItem.java"
+        ]
+      },
+      "path": "~/Items"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "tag_elements": {
+    "ITEMS:c:ingot/steel": []
+  },
+  "tab_element_order": {},
+  "language_map": {
+    "en_us": {
+      "item_group.cheesecraft.cheese_craft": "Cheese Craft",
+      "item.cheesecraft.compressed_coal_block": "Compressed Coal Block",
+      "item.cheesecraft.more_compressed_coal_block": "More Compressed Coal Block",
+      "item.cheesecraft.more_compressed_coal_block_plus": "More Compressed Coal Block Plus",
+      "item.cheesecraft.placeholdercursedtechniuqe_67_causespeopletocommitsuicide": "PLACEHOLDERCURSEDTECHNIUQE 6 7 CAUSESPEOPLETOCOMMITSUICIDE"
+    }
+  },
+  "metadata": {
+    "files": [
+      "src/main/java/org/gsdistance/obx/cheesecraft/init/CheesecraftModBlocks.java",
+      "src/main/java/org/gsdistance/obx/cheesecraft/init/CheesecraftModItems.java",
+      "src/main/java/org/gsdistance/obx/cheesecraft/CheesecraftMod.java",
+      "src/main/resources/META-INF/neoforge.mods.toml",
+      "src/main/resources/pack.mcmeta",
+      "src/main/java/org/gsdistance/obx/cheesecraft/init/CheesecraftModTabs.java"
+    ]
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": [
+      {
+        "name": "Recipes",
+        "children": []
+      },
+      {
+        "name": "Items",
+        "children": []
+      },
+      {
+        "name": "Blocks",
+        "children": []
+      },
+      {
+        "name": "Procedures",
+        "children": []
+      },
+      {
+        "name": "cretivtab",
+        "children": []
+      }
+    ]
+  },
+  "workspaceSettings": {
+    "modid": "cheesecraft",
+    "modName": "CheeseCraft",
+    "version": "1.0.0",
+    "author": "MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Not specified",
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "neoforge-1.21.8",
+    "modElementsPackage": "org.gsdistance.obx.cheesecraft"
+  },
+  "mcreatorVersion": 202600114619
+}

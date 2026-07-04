@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cheesecraft:block/compressedcoal2",
+    "up": "cheesecraft:block/compressedcoal2",
+    "north": "cheesecraft:block/compressedcoal2",
+    "east": "cheesecraft:block/compressedcoal2",
+    "south": "cheesecraft:block/compressedcoal2",
+    "west": "cheesecraft:block/compressedcoal2",
+    "particle": "cheesecraft:block/compressedcoal2"
+  },
+  "render_type": "solid"
+}

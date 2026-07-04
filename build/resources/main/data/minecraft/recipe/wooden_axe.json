@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aa",
+    "aa",
+    "a "
+  ],
+  "key": {
+    "a": "cheesecraft:placeholdercursedtechniuqe_67_causespeopletocommitsuicide"
+  },
+  "result": {
+    "id": "minecraft:wooden_axe",
+    "count": 1
+  }
+}

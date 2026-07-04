@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "cheesecraft:iron_knife",
+    "cheesecraft:netherite_knife",
+    "cheesecraft:diamond_knife",
+    "cheesecraft:flint_knife",
+    "cheesecraft:flint_sword",
+    "cheesecraft:redstone_sword"
+  ]
+}

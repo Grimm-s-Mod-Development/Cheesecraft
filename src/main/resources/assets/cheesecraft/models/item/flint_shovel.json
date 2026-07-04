@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "cheesecraft:item/flint_shovel"
+  }
+}

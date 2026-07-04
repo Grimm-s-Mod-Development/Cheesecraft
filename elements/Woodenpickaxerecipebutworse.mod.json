@@ -1,0 +1,49 @@
+{
+  "_fv": 85,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "unlockingItems": [],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:PLACEHOLDERCURSEDTECHNIUQE67CAUSESPEOPLETOCOMMITSUICIDE"
+      },
+      {
+        "value": "CUSTOM:PLACEHOLDERCURSEDTECHNIUQE67CAUSESPEOPLETOCOMMITSUICIDE"
+      },
+      {
+        "value": "CUSTOM:PLACEHOLDERCURSEDTECHNIUQE67CAUSESPEOPLETOCOMMITSUICIDE"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:PLACEHOLDERCURSEDTECHNIUQE67CAUSESPEOPLETOCOMMITSUICIDE"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:PLACEHOLDERCURSEDTECHNIUQE67CAUSESPEOPLETOCOMMITSUICIDE"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "Items.WOODEN_PICKAXE"
+    },
+    "name": "wooden_pickaxe",
+    "namespace": "minecraft"
+  }
+}

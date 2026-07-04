@@ -1,0 +1,49 @@
+{
+  "_fv": 85,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "unlockingItems": [],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:MoreCompressedCoalBlockPlus"
+      },
+      {
+        "value": "CUSTOM:MoreCompressedCoalBlockPlus"
+      },
+      {
+        "value": "CUSTOM:MoreCompressedCoalBlockPlus"
+      },
+      {
+        "value": "CUSTOM:MoreCompressedCoalBlockPlus"
+      },
+      {
+        "value": "Blocks.SKULL#0"
+      },
+      {
+        "value": "CUSTOM:MoreCompressedCoalBlockPlus"
+      },
+      {
+        "value": "CUSTOM:MoreCompressedCoalBlockPlus"
+      },
+      {
+        "value": "CUSTOM:MoreCompressedCoalBlockPlus"
+      },
+      {
+        "value": "CUSTOM:MoreCompressedCoalBlockPlus"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "Blocks.SKULL#1"
+    },
+    "name": "witherskeletonheadrecipe",
+    "namespace": "mod"
+  }
+}

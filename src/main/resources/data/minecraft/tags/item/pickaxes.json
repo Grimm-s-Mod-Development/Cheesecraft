@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "cheesecraft:stone_knife",
+    "cheesecraft:redstone_pickaxe",
+    "cheesecraft:flint_pickaxe"
+  ]
+}

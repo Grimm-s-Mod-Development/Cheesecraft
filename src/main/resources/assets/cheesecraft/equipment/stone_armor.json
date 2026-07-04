@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "cheesecraft:stone_armor"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "cheesecraft:stone_armor"
+      }
+    ]
+  }
+}
