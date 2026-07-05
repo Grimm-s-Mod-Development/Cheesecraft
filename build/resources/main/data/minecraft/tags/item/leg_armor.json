@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "cheesecraft:redstone_armor_leggings",
+    "cheesecraft:flint_armor_leggings",
+    "cheesecraft:stone_armor_leggings"
+  ]
+}

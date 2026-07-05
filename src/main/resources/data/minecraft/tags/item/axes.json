@@ -2,6 +2,7 @@
   "replace": false,
   "values": [
     "cheesecraft:flint_axe",
+    "cheesecraft:steel_axe",
     "cheesecraft:redstone_axe"
   ]
 }

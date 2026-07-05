@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    "minecraft:cobblestone",
+    "minecraft:cobblestone",
+    "minecraft:cobblestone",
+    "minecraft:cobblestone",
+    "#c:knife",
+    "minecraft:cobblestone"
+  ],
+  "result": {
+    "id": "cheesecraft:stone_armor_helmet",
+    "count": 1
+  }
+}

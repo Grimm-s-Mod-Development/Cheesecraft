@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:cobblestone",
+    "minecraft:stick",
+    "#c:knife"
+  ],
+  "result": {
+    "id": "cheesecraft:stone_knife",
+    "count": 1
+  }
+}

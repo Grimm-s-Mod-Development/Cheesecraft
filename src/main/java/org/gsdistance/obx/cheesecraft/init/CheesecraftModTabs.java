@@ -49,5 +49,17 @@ public class CheesecraftModTabs {
 				tabData.accept(CheesecraftModItems.REDSTONE_ARMOR_CHESTPLATE.get());
 				tabData.accept(CheesecraftModItems.REDSTONE_ARMOR_LEGGINGS.get());
 				tabData.accept(CheesecraftModItems.REDSTONE_ARMOR_BOOTS.get());
+				tabData.accept(CheesecraftModItems.STEL.get());
+				tabData.accept(CheesecraftModItems.STEEL_PICKAXE.get());
+				tabData.accept(CheesecraftModItems.STEEL_AXE.get());
+				tabData.accept(CheesecraftModItems.STEEL_SWORD.get());
+				tabData.accept(CheesecraftModItems.STEEL_SHOVEL.get());
+				tabData.accept(CheesecraftModItems.STEEL_HOE.get());
+				tabData.accept(CheesecraftModItems.STEEL_ARMOR_HELMET.get());
+				tabData.accept(CheesecraftModItems.STEEL_ARMOR_CHESTPLATE.get());
+				tabData.accept(CheesecraftModItems.STEEL_ARMOR_LEGGINGS.get());
+				tabData.accept(CheesecraftModItems.STEEL_ARMOR_BOOTS.get());
+				tabData.accept(CheesecraftModBlocks.FIRE_BRICK.get().asItem());
+				tabData.accept(CheesecraftModBlocks.FIRE_BRICK_FURNACE_BLOCK.get().asItem());
 			}).build());
 }

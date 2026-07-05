@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:diamond",
+    "minecraft:stick",
+    "#c:knife"
+  ],
+  "result": {
+    "id": "cheesecraft:diamond_knife",
+    "count": 1
+  }
+}

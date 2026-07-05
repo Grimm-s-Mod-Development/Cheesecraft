@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "aaa",
+    "aba",
+    "a a"
+  ],
+  "key": {
+    "a": "minecraft:cobblestone",
+    "b": "#c:knife"
+  },
+  "result": {
+    "id": "cheesecraft:stone_armor_leggings",
+    "count": 1
+  }
+}

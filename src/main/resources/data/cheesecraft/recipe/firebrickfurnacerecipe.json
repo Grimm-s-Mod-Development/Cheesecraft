@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aba",
+    "aca"
+  ],
+  "key": {
+    "a": "cheesecraft:fire_brick",
+    "b": "minecraft:blast_furnace",
+    "c": "#c:knife"
+  },
+  "result": {
+    "id": "cheesecraft:fire_brick_furnace_block",
+    "count": 1
+  }
+}

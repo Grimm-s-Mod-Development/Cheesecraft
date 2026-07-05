@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "aba",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": "minecraft:cobblestone",
+    "b": "#c:knife"
+  },
+  "result": {
+    "id": "cheesecraft:stone_armor_chestplate",
+    "count": 1
+  }
+}

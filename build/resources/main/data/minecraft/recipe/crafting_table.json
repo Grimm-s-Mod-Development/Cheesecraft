@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:flint",
+    "minecraft:flint",
+    "#minecraft:logs",
+    "#minecraft:logs"
+  ],
+  "result": {
+    "id": "minecraft:crafting_table",
+    "count": 1
+  }
+}

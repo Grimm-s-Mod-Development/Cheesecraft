@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aba",
+    "aaa"
+  ],
+  "key": {
+    "a": "minecraft:bricks",
+    "b": "minecraft:lava_bucket"
+  },
+  "result": {
+    "id": "cheesecraft:fire_brick",
+    "count": 8
+  }
+}

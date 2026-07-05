@@ -1,0 +1,1294 @@
+{
+  "mod_elements": [
+    {
+      "name": "Witherskeletonheadrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "witherskeletonheadrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/cheesecraft/recipe/witherskeletonheadrecipe.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "Skeletonheadrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "skeletonheadrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/cheesecraft/recipe/skeletonheadrecipe.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "CheeseCraft",
+      "type": "tab",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cheese_craft",
+      "metadata": {
+        "files": []
+      },
+      "path": "~/cretivtab"
+    },
+    {
+      "name": "CompressedCoalBlock",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "compressed_coal_block",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cheesecraft/models/block/compressed_coal_block.json",
+          "src/main/resources/data/cheesecraft/loot_table/blocks/compressed_coal_block.json",
+          "src/main/resources/assets/cheesecraft/models/item/compressed_coal_block.json",
+          "src/main/java/org/gsdistance/obx/cheesecraft/block/CompressedCoalBlockBlock.java",
+          "src/main/resources/assets/cheesecraft/items/compressed_coal_block.json",
+          "src/main/resources/assets/cheesecraft/blockstates/compressed_coal_block.json"
+        ]
+      },
+      "path": "~/Blocks"
+    },
+    {
+      "name": "MoreCompressedCoalBlock",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "more_compressed_coal_block",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cheesecraft/models/item/more_compressed_coal_block.json",
+          "src/main/resources/assets/cheesecraft/models/block/more_compressed_coal_block.json",
+          "src/main/resources/data/cheesecraft/loot_table/blocks/more_compressed_coal_block.json",
+          "src/main/resources/assets/cheesecraft/blockstates/more_compressed_coal_block.json",
+          "src/main/resources/assets/cheesecraft/items/more_compressed_coal_block.json",
+          "src/main/java/org/gsdistance/obx/cheesecraft/block/MoreCompressedCoalBlockBlock.java"
+        ]
+      },
+      "path": "~/Blocks"
+    },
+    {
+      "name": "MoreCompressedCoalBlockPlus",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "more_compressed_coal_block_plus",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cheesecraft/blockstates/more_compressed_coal_block_plus.json",
+          "src/main/resources/assets/cheesecraft/models/block/more_compressed_coal_block_plus.json",
+          "src/main/resources/data/cheesecraft/loot_table/blocks/more_compressed_coal_block_plus.json",
+          "src/main/resources/assets/cheesecraft/models/item/more_compressed_coal_block_plus.json",
+          "src/main/java/org/gsdistance/obx/cheesecraft/block/MoreCompressedCoalBlockPlusBlock.java",
+          "src/main/resources/assets/cheesecraft/items/more_compressed_coal_block_plus.json"
+        ]
+      },
+      "path": "~/Blocks"
+    },
+    {
+      "name": "Compressedcoalblockrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "compressedcoalblockrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/cheesecraft/recipe/compressedcoalblockrecipe.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "Morecompressedcoalblockrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "morecompressedcoalblockrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/cheesecraft/recipe/morecompressedcoalblockrecipe.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "Morecompressedcoalblockplusrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "morecompressedcoalblockplusrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/cheesecraft/recipe/morecompressedcoalblockplusrecipe.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "PLACEHOLDERCURSEDTECHNIUQE67CAUSESPEOPLETOCOMMITSUICIDE",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "placeholdercursedtechniuqe_67_causespeopletocommitsuicide",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cheesecraft/models/item/placeholdercursedtechniuqe_67_causespeopletocommitsuicide.json",
+          "src/main/resources/assets/cheesecraft/items/placeholdercursedtechniuqe_67_causespeopletocommitsuicide.json",
+          "src/main/java/org/gsdistance/obx/cheesecraft/item/PLACEHOLDERCURSEDTECHNIUQE67CAUSESPEOPLETOCOMMITSUICIDEItem.java"
+        ]
+      },
+      "path": "~/Items"
+    },
+    {
+      "name": "Woodenpickaxerecipebutworse",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "woodenpickaxerecipebutworse",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipe/wooden_pickaxe.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "Woodenaxerecipebutworse",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "woodenaxerecipebutworse",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipe/wooden_axe.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "Woodenshovelrecipebutworse",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "woodenshovelrecipebutworse",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipe/wooden_shovel.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "Woodenhoerecipebutworse",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "woodenhoerecipebutworse",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipe/wooden_hoe.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "Woodenswordrecipebutworse",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "woodenswordrecipebutworse",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipe/wooden_sword.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "FlintPickaxe",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "flint_pickaxe",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cheesecraft/models/item/flint_pickaxe.json",
+          "src/main/java/org/gsdistance/obx/cheesecraft/item/FlintPickaxeItem.java",
+          "src/main/resources/assets/cheesecraft/items/flint_pickaxe.json"
+        ]
+      },
+      "path": "~/Materials/Flint tools"
+    },
+    {
+      "name": "FlintAxe",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "flint_axe",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cheesecraft/models/item/flint_axe.json",
+          "src/main/resources/assets/cheesecraft/items/flint_axe.json",
+          "src/main/java/org/gsdistance/obx/cheesecraft/item/FlintAxeItem.java"
+        ]
+      },
+      "path": "~/Materials/Flint tools"
+    },
+    {
+      "name": "FlintSword",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "flint_sword",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cheesecraft/models/item/flint_sword.json",
+          "src/main/java/org/gsdistance/obx/cheesecraft/item/FlintSwordItem.java",
+          "src/main/resources/assets/cheesecraft/items/flint_sword.json"
+        ]
+      },
+      "path": "~/Materials/Flint tools"
+    },
+    {
+      "name": "FlintShovel",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "flint_shovel",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cheesecraft/items/flint_shovel.json",
+          "src/main/resources/assets/cheesecraft/models/item/flint_shovel.json",
+          "src/main/java/org/gsdistance/obx/cheesecraft/item/FlintShovelItem.java"
+        ]
+      },
+      "path": "~/Materials/Flint tools"
+    },
+    {
+      "name": "FlintHoe",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "flint_hoe",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cheesecraft/models/item/flint_hoe.json",
+          "src/main/resources/assets/cheesecraft/items/flint_hoe.json",
+          "src/main/java/org/gsdistance/obx/cheesecraft/item/FlintHoeItem.java"
+        ]
+      },
+      "path": "~/Materials/Flint tools"
+    },
+    {
+      "name": "FlintPickaxeRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "flint_pickaxe_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/cheesecraft/recipe/flint_pickaxe_recipe.json",
+          "src/main/resources/data/cheesecraft/advancement/recipes/flint_pickaxe_recipe.json"
+        ]
+      },
+      "path": "~/Materials/Flint tools"
+    },
+    {
+      "name": "FlintAxeRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "flint_axe_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/cheesecraft/recipe/flint_axe_recipe.json",
+          "src/main/resources/data/cheesecraft/advancement/recipes/flint_axe_recipe.json"
+        ]
+      },
+      "path": "~/Materials/Flint tools"
+    },
+    {
+      "name": "FlintSwordRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "flint_sword_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/cheesecraft/advancement/recipes/flint_sword_recipe.json",
+          "src/main/resources/data/cheesecraft/recipe/flint_sword_recipe.json"
+        ]
+      },
+      "path": "~/Materials/Flint tools"
+    },
+    {
+      "name": "FlintShovelRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "flint_shovel_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/cheesecraft/advancement/recipes/flint_shovel_recipe.json",
+          "src/main/resources/data/cheesecraft/recipe/flint_shovel_recipe.json"
+        ]
+      },
+      "path": "~/Materials/Flint tools"
+    },
+    {
+      "name": "FlintHoeRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "flint_hoe_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/cheesecraft/recipe/flint_hoe_recipe.json",
+          "src/main/resources/data/cheesecraft/advancement/recipes/flint_hoe_recipe.json"
+        ]
+      },
+      "path": "~/Materials/Flint tools"
+    },
+    {
+      "name": "FlintArmor",
+      "type": "armor",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "flint_armor",
+      "metadata": {
+        "files": [
+          "src/main/java/org/gsdistance/obx/cheesecraft/item/FlintArmorItem.java",
+          "src/main/resources/assets/cheesecraft/items/flint_armor_boots.json",
+          "src/main/resources/assets/cheesecraft/items/flint_armor_helmet.json",
+          "src/main/resources/assets/cheesecraft/items/flint_armor_chestplate.json",
+          "src/main/resources/assets/cheesecraft/items/flint_armor_leggings.json",
+          "src/main/resources/assets/cheesecraft/models/item/flint_armor_helmet.json",
+          "src/main/resources/assets/cheesecraft/models/item/flint_armor_chestplate.json",
+          "src/main/java/org/gsdistance/obx/cheesecraft/client/renderer/item/FlintArmorArmor.java",
+          "src/main/resources/assets/cheesecraft/equipment/flint_armor.json",
+          "src/main/resources/assets/cheesecraft/models/item/flint_armor_boots.json",
+          "src/main/resources/assets/cheesecraft/models/item/flint_armor_leggings.json"
+        ]
+      },
+      "path": "~/Materials/Flint tools"
+    },
+    {
+      "name": "FlintArmorHelmetRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "flint_armor_helmet_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/cheesecraft/recipe/flint_armor_helmet_recipe.json",
+          "src/main/resources/data/cheesecraft/advancement/recipes/flint_armor_helmet_recipe.json"
+        ]
+      },
+      "path": "~/Materials/Flint tools"
+    },
+    {
+      "name": "FlintArmorChestplateRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "flint_armor_chestplate_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/cheesecraft/recipe/flint_armor_chestplate_recipe.json",
+          "src/main/resources/data/cheesecraft/advancement/recipes/flint_armor_chestplate_recipe.json"
+        ]
+      },
+      "path": "~/Materials/Flint tools"
+    },
+    {
+      "name": "FlintArmorLeggingsRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "flint_armor_leggings_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/cheesecraft/recipe/flint_armor_leggings_recipe.json",
+          "src/main/resources/data/cheesecraft/advancement/recipes/flint_armor_leggings_recipe.json"
+        ]
+      },
+      "path": "~/Materials/Flint tools"
+    },
+    {
+      "name": "FlintArmorBootsRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "flint_armor_boots_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/cheesecraft/advancement/recipes/flint_armor_boots_recipe.json",
+          "src/main/resources/data/cheesecraft/recipe/flint_armor_boots_recipe.json"
+        ]
+      },
+      "path": "~/Materials/Flint tools"
+    },
+    {
+      "name": "Craftingtablerecibebutbetter",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "craftingtablerecibebutbetter",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipe/crafting_table.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "FlintKnife",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "flint_knife",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cheesecraft/items/flint_knife.json",
+          "src/main/resources/assets/cheesecraft/models/item/flint_knife.json",
+          "src/main/java/org/gsdistance/obx/cheesecraft/item/FlintKnifeItem.java"
+        ]
+      },
+      "path": "~/Materials/Flint tools"
+    },
+    {
+      "name": "Flintkniferecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "flintkniferecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/cheesecraft/recipe/flintkniferecipe.json"
+        ]
+      },
+      "path": "~/Materials/Flint tools"
+    },
+    {
+      "name": "StoneArmor",
+      "type": "armor",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_armor",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cheesecraft/models/item/stone_armor_boots.json",
+          "src/main/resources/assets/cheesecraft/items/stone_armor_helmet.json",
+          "src/main/resources/assets/cheesecraft/equipment/stone_armor.json",
+          "src/main/resources/assets/cheesecraft/items/stone_armor_chestplate.json",
+          "src/main/resources/assets/cheesecraft/items/stone_armor_leggings.json",
+          "src/main/java/org/gsdistance/obx/cheesecraft/client/renderer/item/StoneArmorArmor.java",
+          "src/main/resources/assets/cheesecraft/items/stone_armor_boots.json",
+          "src/main/resources/assets/cheesecraft/models/item/stone_armor_chestplate.json",
+          "src/main/java/org/gsdistance/obx/cheesecraft/item/StoneArmorItem.java",
+          "src/main/resources/assets/cheesecraft/models/item/stone_armor_helmet.json",
+          "src/main/resources/assets/cheesecraft/models/item/stone_armor_leggings.json"
+        ]
+      },
+      "path": "~/Materials/Stone"
+    },
+    {
+      "name": "StoneArmorHelmetRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_armor_helmet_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/cheesecraft/recipe/stone_armor_helmet_recipe.json",
+          "src/main/resources/data/cheesecraft/advancement/recipes/stone_armor_helmet_recipe.json"
+        ]
+      },
+      "path": "~/Materials/Stone"
+    },
+    {
+      "name": "StoneArmorChestplateRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_armor_chestplate_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/cheesecraft/advancement/recipes/stone_armor_chestplate_recipe.json",
+          "src/main/resources/data/cheesecraft/recipe/stone_armor_chestplate_recipe.json"
+        ]
+      },
+      "path": "~/Materials/Stone"
+    },
+    {
+      "name": "StoneArmorLeggingsRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_armor_leggings_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/cheesecraft/advancement/recipes/stone_armor_leggings_recipe.json",
+          "src/main/resources/data/cheesecraft/recipe/stone_armor_leggings_recipe.json"
+        ]
+      },
+      "path": "~/Materials/Stone"
+    },
+    {
+      "name": "StoneArmorBootsRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_armor_boots_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/cheesecraft/advancement/recipes/stone_armor_boots_recipe.json",
+          "src/main/resources/data/cheesecraft/recipe/stone_armor_boots_recipe.json"
+        ]
+      },
+      "path": "~/Materials/Stone"
+    },
+    {
+      "name": "StoneKnife",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_knife",
+      "metadata": {
+        "files": [
+          "src/main/java/org/gsdistance/obx/cheesecraft/item/StoneKnifeItem.java",
+          "src/main/resources/assets/cheesecraft/items/stone_knife.json",
+          "src/main/resources/assets/cheesecraft/models/item/stone_knife.json"
+        ]
+      },
+      "path": "~/Materials/Stone"
+    },
+    {
+      "name": "Stonekniferecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stonekniferecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/cheesecraft/recipe/stonekniferecipe.json"
+        ]
+      },
+      "path": "~/Materials/Stone"
+    },
+    {
+      "name": "IronKnife",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "iron_knife",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cheesecraft/models/item/iron_knife.json",
+          "src/main/resources/assets/cheesecraft/items/iron_knife.json",
+          "src/main/java/org/gsdistance/obx/cheesecraft/item/IronKnifeItem.java"
+        ]
+      },
+      "path": "~/Materials/Stuff"
+    },
+    {
+      "name": "DiamondKnife",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diamond_knife",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cheesecraft/models/item/diamond_knife.json",
+          "src/main/resources/assets/cheesecraft/items/diamond_knife.json",
+          "src/main/java/org/gsdistance/obx/cheesecraft/item/DiamondKnifeItem.java"
+        ]
+      },
+      "path": "~/Materials/Stuff"
+    },
+    {
+      "name": "NetheriteKnife",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netherite_knife",
+      "metadata": {
+        "files": [
+          "src/main/java/org/gsdistance/obx/cheesecraft/item/NetheriteKnifeItem.java",
+          "src/main/resources/assets/cheesecraft/items/netherite_knife.json",
+          "src/main/resources/assets/cheesecraft/models/item/netherite_knife.json"
+        ]
+      },
+      "path": "~/Materials/Stuff"
+    },
+    {
+      "name": "Ironkniferecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ironkniferecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/cheesecraft/recipe/ironkniferecipe.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "Diamondkniferecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diamondkniferecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/cheesecraft/recipe/diamondkniferecipe.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "Netheritekniferecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheritekniferecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/cheesecraft/recipe/netheritekniferecipe.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "RedstonePickaxe",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "redstone_pickaxe",
+      "metadata": {
+        "files": [
+          "src/main/java/org/gsdistance/obx/cheesecraft/item/RedstonePickaxeItem.java",
+          "src/main/resources/assets/cheesecraft/models/item/redstone_pickaxe.json",
+          "src/main/resources/assets/cheesecraft/items/redstone_pickaxe.json"
+        ]
+      },
+      "path": "~/Materials/Redstone"
+    },
+    {
+      "name": "RedstoneAxe",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "redstone_axe",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cheesecraft/models/item/redstone_axe.json",
+          "src/main/java/org/gsdistance/obx/cheesecraft/item/RedstoneAxeItem.java",
+          "src/main/resources/assets/cheesecraft/items/redstone_axe.json"
+        ]
+      },
+      "path": "~/Materials/Redstone"
+    },
+    {
+      "name": "RedstoneSword",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "redstone_sword",
+      "metadata": {
+        "files": [
+          "src/main/java/org/gsdistance/obx/cheesecraft/item/RedstoneSwordItem.java",
+          "src/main/resources/assets/cheesecraft/items/redstone_sword.json",
+          "src/main/resources/assets/cheesecraft/models/item/redstone_sword.json"
+        ]
+      },
+      "path": "~/Materials/Redstone"
+    },
+    {
+      "name": "RedstoneShovel",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "redstone_shovel",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cheesecraft/items/redstone_shovel.json",
+          "src/main/resources/assets/cheesecraft/models/item/redstone_shovel.json",
+          "src/main/java/org/gsdistance/obx/cheesecraft/item/RedstoneShovelItem.java"
+        ]
+      },
+      "path": "~/Materials/Redstone"
+    },
+    {
+      "name": "RedstoneHoe",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "redstone_hoe",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cheesecraft/models/item/redstone_hoe.json",
+          "src/main/resources/assets/cheesecraft/items/redstone_hoe.json",
+          "src/main/java/org/gsdistance/obx/cheesecraft/item/RedstoneHoeItem.java"
+        ]
+      },
+      "path": "~/Materials/Redstone"
+    },
+    {
+      "name": "RedstonePickaxeRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "redstone_pickaxe_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/cheesecraft/advancement/recipes/redstone_pickaxe_recipe.json",
+          "src/main/resources/data/cheesecraft/recipe/redstone_pickaxe_recipe.json"
+        ]
+      },
+      "path": "~/Materials/Redstone"
+    },
+    {
+      "name": "RedstoneAxeRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "redstone_axe_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/cheesecraft/recipe/redstone_axe_recipe.json",
+          "src/main/resources/data/cheesecraft/advancement/recipes/redstone_axe_recipe.json"
+        ]
+      },
+      "path": "~/Materials/Redstone"
+    },
+    {
+      "name": "RedstoneSwordRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "redstone_sword_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/cheesecraft/recipe/redstone_sword_recipe.json",
+          "src/main/resources/data/cheesecraft/advancement/recipes/redstone_sword_recipe.json"
+        ]
+      },
+      "path": "~/Materials/Redstone"
+    },
+    {
+      "name": "RedstoneShovelRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "redstone_shovel_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/cheesecraft/recipe/redstone_shovel_recipe.json",
+          "src/main/resources/data/cheesecraft/advancement/recipes/redstone_shovel_recipe.json"
+        ]
+      },
+      "path": "~/Materials/Redstone"
+    },
+    {
+      "name": "RedstoneHoeRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "redstone_hoe_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/cheesecraft/advancement/recipes/redstone_hoe_recipe.json",
+          "src/main/resources/data/cheesecraft/recipe/redstone_hoe_recipe.json"
+        ]
+      },
+      "path": "~/Materials/Redstone"
+    },
+    {
+      "name": "RedstoneArmor",
+      "type": "armor",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "redstone_armor",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cheesecraft/items/redstone_armor_helmet.json",
+          "src/main/resources/assets/cheesecraft/equipment/redstone_armor.json",
+          "src/main/resources/assets/cheesecraft/models/item/redstone_armor_boots.json",
+          "src/main/java/org/gsdistance/obx/cheesecraft/client/renderer/item/RedstoneArmorArmor.java",
+          "src/main/resources/assets/cheesecraft/items/redstone_armor_boots.json",
+          "src/main/resources/assets/cheesecraft/models/item/redstone_armor_helmet.json",
+          "src/main/resources/assets/cheesecraft/models/item/redstone_armor_leggings.json",
+          "src/main/java/org/gsdistance/obx/cheesecraft/item/RedstoneArmorItem.java",
+          "src/main/resources/assets/cheesecraft/items/redstone_armor_chestplate.json",
+          "src/main/resources/assets/cheesecraft/items/redstone_armor_leggings.json",
+          "src/main/resources/assets/cheesecraft/models/item/redstone_armor_chestplate.json"
+        ]
+      },
+      "path": "~/Materials/Redstone"
+    },
+    {
+      "name": "RedstoneArmorHelmetRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "redstone_armor_helmet_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/cheesecraft/advancement/recipes/redstone_armor_helmet_recipe.json",
+          "src/main/resources/data/cheesecraft/recipe/redstone_armor_helmet_recipe.json"
+        ]
+      },
+      "path": "~/Materials/Redstone"
+    },
+    {
+      "name": "RedstoneArmorChestplateRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "redstone_armor_chestplate_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/cheesecraft/advancement/recipes/redstone_armor_chestplate_recipe.json",
+          "src/main/resources/data/cheesecraft/recipe/redstone_armor_chestplate_recipe.json"
+        ]
+      },
+      "path": "~/Materials/Redstone"
+    },
+    {
+      "name": "RedstoneArmorLeggingsRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "redstone_armor_leggings_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/cheesecraft/advancement/recipes/redstone_armor_leggings_recipe.json",
+          "src/main/resources/data/cheesecraft/recipe/redstone_armor_leggings_recipe.json"
+        ]
+      },
+      "path": "~/Materials/Redstone"
+    },
+    {
+      "name": "RedstoneArmorBootsRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "redstone_armor_boots_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/cheesecraft/advancement/recipes/redstone_armor_boots_recipe.json",
+          "src/main/resources/data/cheesecraft/recipe/redstone_armor_boots_recipe.json"
+        ]
+      },
+      "path": "~/Materials/Redstone"
+    },
+    {
+      "name": "Stel",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stel",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cheesecraft/items/stel.json",
+          "src/main/java/org/gsdistance/obx/cheesecraft/item/StelItem.java",
+          "src/main/resources/assets/cheesecraft/models/item/stel.json"
+        ]
+      },
+      "path": "~/Materials/Steel"
+    },
+    {
+      "name": "SteelPickaxe",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "steel_pickaxe",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cheesecraft/models/item/steel_pickaxe.json",
+          "src/main/resources/assets/cheesecraft/items/steel_pickaxe.json",
+          "src/main/java/org/gsdistance/obx/cheesecraft/item/SteelPickaxeItem.java"
+        ]
+      },
+      "path": "~/Materials/Steel"
+    },
+    {
+      "name": "SteelAxe",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "steel_axe",
+      "metadata": {
+        "files": [
+          "src/main/java/org/gsdistance/obx/cheesecraft/item/SteelAxeItem.java",
+          "src/main/resources/assets/cheesecraft/models/item/steel_axe.json",
+          "src/main/resources/assets/cheesecraft/items/steel_axe.json"
+        ]
+      },
+      "path": "~/Materials/Steel"
+    },
+    {
+      "name": "SteelSword",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "steel_sword",
+      "metadata": {
+        "files": [
+          "src/main/java/org/gsdistance/obx/cheesecraft/item/SteelSwordItem.java",
+          "src/main/resources/assets/cheesecraft/items/steel_sword.json",
+          "src/main/resources/assets/cheesecraft/models/item/steel_sword.json"
+        ]
+      },
+      "path": "~/Materials/Steel"
+    },
+    {
+      "name": "SteelShovel",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "steel_shovel",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cheesecraft/models/item/steel_shovel.json",
+          "src/main/java/org/gsdistance/obx/cheesecraft/item/SteelShovelItem.java",
+          "src/main/resources/assets/cheesecraft/items/steel_shovel.json"
+        ]
+      },
+      "path": "~/Materials/Steel"
+    },
+    {
+      "name": "SteelHoe",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "steel_hoe",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cheesecraft/models/item/steel_hoe.json",
+          "src/main/java/org/gsdistance/obx/cheesecraft/item/SteelHoeItem.java",
+          "src/main/resources/assets/cheesecraft/items/steel_hoe.json"
+        ]
+      },
+      "path": "~/Materials/Steel"
+    },
+    {
+      "name": "SteelPickaxeRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "steel_pickaxe_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/cheesecraft/recipe/steel_pickaxe_recipe.json",
+          "src/main/resources/data/cheesecraft/advancement/recipes/steel_pickaxe_recipe.json"
+        ]
+      },
+      "path": "~/Materials/Steel"
+    },
+    {
+      "name": "SteelAxeRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "steel_axe_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/cheesecraft/advancement/recipes/steel_axe_recipe.json",
+          "src/main/resources/data/cheesecraft/recipe/steel_axe_recipe.json"
+        ]
+      },
+      "path": "~/Materials/Steel"
+    },
+    {
+      "name": "SteelSwordRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "steel_sword_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/cheesecraft/advancement/recipes/steel_sword_recipe.json",
+          "src/main/resources/data/cheesecraft/recipe/steel_sword_recipe.json"
+        ]
+      },
+      "path": "~/Materials/Steel"
+    },
+    {
+      "name": "SteelShovelRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "steel_shovel_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/cheesecraft/advancement/recipes/steel_shovel_recipe.json",
+          "src/main/resources/data/cheesecraft/recipe/steel_shovel_recipe.json"
+        ]
+      },
+      "path": "~/Materials/Steel"
+    },
+    {
+      "name": "SteelHoeRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "steel_hoe_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/cheesecraft/recipe/steel_hoe_recipe.json",
+          "src/main/resources/data/cheesecraft/advancement/recipes/steel_hoe_recipe.json"
+        ]
+      },
+      "path": "~/Materials/Steel"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "tag_elements": {
+    "ITEMS:minecraft:pickaxes": [
+      "~CUSTOM:SteelPickaxe",
+      "~CUSTOM:RedstonePickaxe",
+      "~CUSTOM:StoneKnife",
+      "~CUSTOM:FlintPickaxe"
+    ],
+    "ITEMS:cheesecraft:flint_pickaxe_repair_items": [
+      "~Items.FLINT"
+    ],
+    "ITEMS:minecraft:axes": [
+      "~CUSTOM:SteelAxe",
+      "~CUSTOM:RedstoneAxe",
+      "~CUSTOM:FlintAxe"
+    ],
+    "ITEMS:cheesecraft:flint_axe_repair_items": [
+      "~Items.FLINT"
+    ],
+    "ITEMS:minecraft:swords": [
+      "~CUSTOM:SteelSword",
+      "~CUSTOM:RedstoneSword",
+      "~CUSTOM:NetheriteKnife",
+      "~CUSTOM:DiamondKnife",
+      "~CUSTOM:IronKnife",
+      "~CUSTOM:FlintKnife",
+      "~CUSTOM:FlintSword"
+    ],
+    "ITEMS:cheesecraft:flint_sword_repair_items": [
+      "~Items.FLINT"
+    ],
+    "ITEMS:minecraft:shovels": [
+      "~CUSTOM:SteelShovel",
+      "~CUSTOM:RedstoneShovel",
+      "~CUSTOM:FlintShovel"
+    ],
+    "ITEMS:cheesecraft:flint_shovel_repair_items": [
+      "~Items.FLINT"
+    ],
+    "ITEMS:minecraft:hoes": [
+      "~CUSTOM:SteelHoe",
+      "~CUSTOM:RedstoneHoe",
+      "~CUSTOM:FlintHoe"
+    ],
+    "ITEMS:cheesecraft:flint_hoe_repair_items": [
+      "~Items.FLINT"
+    ],
+    "ITEMS:minecraft:head_armor": [
+      "~CUSTOM:RedstoneArmor.helmet",
+      "~CUSTOM:StoneArmor.helmet",
+      "~CUSTOM:FlintArmor.helmet"
+    ],
+    "ITEMS:minecraft:chest_armor": [
+      "~CUSTOM:RedstoneArmor.body",
+      "~CUSTOM:StoneArmor.body",
+      "~CUSTOM:FlintArmor.body"
+    ],
+    "ITEMS:minecraft:leg_armor": [
+      "~CUSTOM:RedstoneArmor.legs",
+      "~CUSTOM:StoneArmor.legs",
+      "~CUSTOM:FlintArmor.legs"
+    ],
+    "ITEMS:minecraft:foot_armor": [
+      "~CUSTOM:RedstoneArmor.boots",
+      "~CUSTOM:StoneArmor.boots",
+      "~CUSTOM:FlintArmor.boots"
+    ],
+    "ITEMS:cheesecraft:flint_armor_repair_items": [
+      "~Items.FLINT"
+    ],
+    "ITEMS:cheesecraft:stone_armor_repair_items": [
+      "~Blocks.COBBLESTONE"
+    ],
+    "ITEMS:c:knife": [
+      "CUSTOM:FlintKnife",
+      "CUSTOM:StoneKnife",
+      "CUSTOM:IronKnife",
+      "CUSTOM:DiamondKnife",
+      "CUSTOM:NetheriteKnife"
+    ],
+    "ITEMS:cheesecraft:redstone_pickaxe_repair_items": [
+      "~Items.REDSTONE"
+    ],
+    "ITEMS:cheesecraft:redstone_axe_repair_items": [
+      "~Items.REDSTONE"
+    ],
+    "ITEMS:cheesecraft:redstone_sword_repair_items": [
+      "~Items.REDSTONE"
+    ],
+    "ITEMS:cheesecraft:redstone_shovel_repair_items": [
+      "~Items.REDSTONE"
+    ],
+    "ITEMS:cheesecraft:redstone_hoe_repair_items": [
+      "~Items.REDSTONE"
+    ],
+    "ITEMS:cheesecraft:redstone_armor_repair_items": [
+      "~Items.REDSTONE"
+    ],
+    "ITEMS:c:ingot/steel": [
+      "CUSTOM:Stel"
+    ],
+    "ITEMS:cheesecraft:steel_pickaxe_repair_items": [
+      "~CUSTOM:Stel"
+    ],
+    "ITEMS:cheesecraft:steel_axe_repair_items": [
+      "~CUSTOM:Stel"
+    ],
+    "ITEMS:cheesecraft:steel_sword_repair_items": [
+      "~CUSTOM:Stel"
+    ],
+    "ITEMS:cheesecraft:steel_shovel_repair_items": [
+      "~CUSTOM:Stel"
+    ],
+    "ITEMS:cheesecraft:steel_hoe_repair_items": [
+      "~CUSTOM:Stel"
+    ]
+  },
+  "tab_element_order": {},
+  "language_map": {
+    "en_us": {
+      "item_group.cheesecraft.cheese_craft": "Cheese Craft",
+      "item.cheesecraft.compressed_coal_block": "Compressed Coal Block",
+      "item.cheesecraft.more_compressed_coal_block": "More Compressed Coal Block",
+      "item.cheesecraft.more_compressed_coal_block_plus": "More Compressed Coal Block Plus",
+      "item.cheesecraft.placeholdercursedtechniuqe_67_causespeopletocommitsuicide": "PLACEHOLDERCURSEDTECHNIUQE 6 7 CAUSESPEOPLETOCOMMITSUICIDE",
+      "item.cheesecraft.flint_pickaxe": "Flint Pickaxe",
+      "item.cheesecraft.flint_axe": "Flint Axe",
+      "item.cheesecraft.flint_sword": "Flint Sword",
+      "item.cheesecraft.flint_shovel": "Flint Shovel",
+      "item.cheesecraft.flint_hoe": "Flint Hoe",
+      "item.cheesecraft.flint_armor_helmet": "Flint Helmet",
+      "item.cheesecraft.flint_armor_leggings": "Flint Leggings",
+      "item.cheesecraft.flint_armor_boots": "Flint Boots",
+      "item.cheesecraft.flint_armor_chestplate": "Flint Chestplate",
+      "item.cheesecraft.flint_knife": "Flint Knife",
+      "item.cheesecraft.stone_armor_helmet": "Stone Helmet",
+      "item.cheesecraft.stone_armor_leggings": "Stone Leggings",
+      "item.cheesecraft.stone_armor_chestplate": "Stone Chestplate",
+      "item.cheesecraft.stone_armor_boots": "Stone Boots",
+      "item.cheesecraft.stone_knife": "Stone Knife",
+      "item.cheesecraft.iron_knife": "Iron Knife",
+      "item.cheesecraft.diamond_knife": "Diamond Knife",
+      "item.cheesecraft.netherite_knife": "Netherite Knife",
+      "item.cheesecraft.redstone_pickaxe": "Redstone Pickaxe",
+      "item.cheesecraft.redstone_axe": "Redstone Axe",
+      "item.cheesecraft.redstone_sword": "Redstone Sword",
+      "item.cheesecraft.redstone_shovel": "Redstone Shovel",
+      "item.cheesecraft.redstone_hoe": "Redstone Hoe",
+      "item.cheesecraft.redstone_armor_chestplate": "Redstone Chestplate",
+      "item.cheesecraft.redstone_armor_helmet": "Redstone Helmet",
+      "item.cheesecraft.redstone_armor_boots": "Redstone Boots",
+      "item.cheesecraft.redstone_armor_leggings": "Redstone Leggings",
+      "item.cheesecraft.stel": "Steel",
+      "item.cheesecraft.steel_pickaxe": "Steel Pickaxe",
+      "item.cheesecraft.steel_axe": "Steel Axe",
+      "item.cheesecraft.steel_sword": "Steel Sword",
+      "item.cheesecraft.steel_shovel": "Steel Shovel",
+      "item.cheesecraft.steel_hoe": "Steel Hoe"
+    }
+  },
+  "metadata": {
+    "files": [
+      "src/main/java/org/gsdistance/obx/cheesecraft/init/CheesecraftModBlocks.java",
+      "src/main/java/org/gsdistance/obx/cheesecraft/init/CheesecraftModItems.java",
+      "src/main/resources/META-INF/accesstransformer.cfg",
+      "src/main/java/org/gsdistance/obx/cheesecraft/CheesecraftMod.java",
+      "src/main/resources/META-INF/neoforge.mods.toml",
+      "src/main/resources/pack.mcmeta",
+      "src/main/java/org/gsdistance/obx/cheesecraft/init/CheesecraftModTabs.java"
+    ]
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": [
+      {
+        "name": "Recipes",
+        "children": []
+      },
+      {
+        "name": "Items",
+        "children": []
+      },
+      {
+        "name": "Blocks",
+        "children": []
+      },
+      {
+        "name": "Procedures",
+        "children": []
+      },
+      {
+        "name": "cretivtab",
+        "children": []
+      },
+      {
+        "name": "Materials",
+        "children": [
+          {
+            "name": "Flint tools",
+            "children": []
+          },
+          {
+            "name": "Stone",
+            "children": []
+          },
+          {
+            "name": "Stuff",
+            "children": []
+          },
+          {
+            "name": "Redstone",
+            "children": []
+          },
+          {
+            "name": "Steel",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "workspaceSettings": {
+    "modid": "cheesecraft",
+    "modName": "CheeseCraft",
+    "version": "1",
+    "description": "base mod for CheeseCraft series",
+    "author": "MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "All Rights Reserved",
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "neoforge-1.21.8",
+    "credits": "Optimus Prime and Bumblebee helped me a lot",
+    "modElementsPackage": "org.gsdistance.obx.cheesecraft"
+  },
+  "mcreatorVersion": 202600114619
+}

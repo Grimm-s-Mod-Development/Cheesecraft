@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cheesecraft:block/brickfurnacebricksyde",
+    "up": "cheesecraft:block/brickfurnacebricksyde",
+    "north": "cheesecraft:block/brickfurnace",
+    "east": "cheesecraft:block/brickfurnacebricksyde",
+    "south": "cheesecraft:block/brickfurnacebricksyde",
+    "west": "cheesecraft:block/brickfurnacebricksyde",
+    "particle": "cheesecraft:block/brickfurnacebricksyde"
+  },
+  "render_type": "solid"
+}

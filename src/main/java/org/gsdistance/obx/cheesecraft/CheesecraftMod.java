@@ -1,6 +1,7 @@
 package org.gsdistance.obx.cheesecraft;
 
 import org.gsdistance.obx.cheesecraft.init.CheesecraftModTabs;
+import org.gsdistance.obx.cheesecraft.init.CheesecraftModMenus;
 import org.gsdistance.obx.cheesecraft.init.CheesecraftModItems;
 import org.gsdistance.obx.cheesecraft.init.CheesecraftModBlocks;
 
@@ -53,6 +54,7 @@ public class CheesecraftMod {
 		CheesecraftModBlocks.REGISTRY.register(modEventBus);
 		CheesecraftModItems.REGISTRY.register(modEventBus);
 		CheesecraftModTabs.REGISTRY.register(modEventBus);
+		CheesecraftModMenus.REGISTRY.register(modEventBus);
 		// Start of user code block mod init
 		// End of user code block mod init
 	}

@@ -1,7 +1,6 @@
-build/*
-gradle/*
-.gradle/*
-.mcreator/*
-.eclipse/*
-run/*
-src/*
+build/
+gradle/
+.gradle/
+.mcreator/
+.eclipse/
+run/

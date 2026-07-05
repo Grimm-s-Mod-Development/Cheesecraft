@@ -32,7 +32,7 @@
     "blockDropsTier": "NETHERITE",
     "blocksAffected": [],
     "attributeModifiers": [],
-    "stayInGridWhenCrafting": false,
-    "damageOnCrafting": false
+    "stayInGridWhenCrafting": true,
+    "damageOnCrafting": true
   }
 }

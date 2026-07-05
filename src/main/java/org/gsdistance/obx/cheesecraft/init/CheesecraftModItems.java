@@ -49,6 +49,18 @@ public class CheesecraftModItems {
 	public static final DeferredItem<Item> REDSTONE_ARMOR_CHESTPLATE;
 	public static final DeferredItem<Item> REDSTONE_ARMOR_LEGGINGS;
 	public static final DeferredItem<Item> REDSTONE_ARMOR_BOOTS;
+	public static final DeferredItem<Item> STEL;
+	public static final DeferredItem<Item> STEEL_PICKAXE;
+	public static final DeferredItem<Item> STEEL_AXE;
+	public static final DeferredItem<Item> STEEL_SWORD;
+	public static final DeferredItem<Item> STEEL_SHOVEL;
+	public static final DeferredItem<Item> STEEL_HOE;
+	public static final DeferredItem<Item> STEEL_ARMOR_HELMET;
+	public static final DeferredItem<Item> STEEL_ARMOR_CHESTPLATE;
+	public static final DeferredItem<Item> STEEL_ARMOR_LEGGINGS;
+	public static final DeferredItem<Item> STEEL_ARMOR_BOOTS;
+	public static final DeferredItem<Item> FIRE_BRICK;
+	public static final DeferredItem<Item> FIRE_BRICK_FURNACE_BLOCK;
 	static {
 		COMPRESSED_COAL_BLOCK = block(CheesecraftModBlocks.COMPRESSED_COAL_BLOCK);
 		MORE_COMPRESSED_COAL_BLOCK = block(CheesecraftModBlocks.MORE_COMPRESSED_COAL_BLOCK);
@@ -81,6 +93,18 @@ public class CheesecraftModItems {
 		REDSTONE_ARMOR_CHESTPLATE = register("redstone_armor_chestplate", RedstoneArmorItem.Chestplate::new);
 		REDSTONE_ARMOR_LEGGINGS = register("redstone_armor_leggings", RedstoneArmorItem.Leggings::new);
 		REDSTONE_ARMOR_BOOTS = register("redstone_armor_boots", RedstoneArmorItem.Boots::new);
+		STEL = register("stel", StelItem::new);
+		STEEL_PICKAXE = register("steel_pickaxe", SteelPickaxeItem::new);
+		STEEL_AXE = register("steel_axe", SteelAxeItem::new);
+		STEEL_SWORD = register("steel_sword", SteelSwordItem::new);
+		STEEL_SHOVEL = register("steel_shovel", SteelShovelItem::new);
+		STEEL_HOE = register("steel_hoe", SteelHoeItem::new);
+		STEEL_ARMOR_HELMET = register("steel_armor_helmet", SteelArmorItem.Helmet::new);
+		STEEL_ARMOR_CHESTPLATE = register("steel_armor_chestplate", SteelArmorItem.Chestplate::new);
+		STEEL_ARMOR_LEGGINGS = register("steel_armor_leggings", SteelArmorItem.Leggings::new);
+		STEEL_ARMOR_BOOTS = register("steel_armor_boots", SteelArmorItem.Boots::new);
+		FIRE_BRICK = block(CheesecraftModBlocks.FIRE_BRICK);
+		FIRE_BRICK_FURNACE_BLOCK = block(CheesecraftModBlocks.FIRE_BRICK_FURNACE_BLOCK);
 	}
 
 	// Start of user code block custom items

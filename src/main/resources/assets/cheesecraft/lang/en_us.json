@@ -30,5 +30,17 @@
   "item.cheesecraft.redstone_armor_chestplate": "Redstone Chestplate",
   "item.cheesecraft.redstone_armor_helmet": "Redstone Helmet",
   "item.cheesecraft.redstone_armor_boots": "Redstone Boots",
-  "item.cheesecraft.redstone_armor_leggings": "Redstone Leggings"
+  "item.cheesecraft.redstone_armor_leggings": "Redstone Leggings",
+  "item.cheesecraft.stel": "Steel",
+  "item.cheesecraft.steel_pickaxe": "Steel Pickaxe",
+  "item.cheesecraft.steel_axe": "Steel Axe",
+  "item.cheesecraft.steel_sword": "Steel Sword",
+  "item.cheesecraft.steel_shovel": "Steel Shovel",
+  "item.cheesecraft.steel_hoe": "Steel Hoe",
+  "item.cheesecraft.steel_armor_boots": "Steel Boots",
+  "item.cheesecraft.steel_armor_chestplate": "Steel Chestplate",
+  "item.cheesecraft.steel_armor_helmet": "Steel Helmet",
+  "item.cheesecraft.steel_armor_leggings": "Steel Leggings",
+  "item.cheesecraft.fire_brick": "Fire Brick",
+  "item.cheesecraft.fire_brick_furnace_block": "Fire Brick Furnace "
 }
